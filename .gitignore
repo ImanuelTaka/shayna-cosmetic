@@ -1,0 +1,16 @@
+# Ignore Laravel backend dependencies & env
+/cosmetic-backend/vendor/
+/cosmetic-backend/node_modules/
+/cosmetic-backend/public/storage
+/cosmetic-backend/storage/*.key
+/cosmetic-backend/.env
+
+# Ignore frontend node_modules & build files
+/cosmetic-frontend/node_modules/
+/cosmetic-frontend/dist
+/cosmetic-frontend/.env
+
+# OS and editor junk files
+.DS_Store
+Thumbs.db
+*.log
