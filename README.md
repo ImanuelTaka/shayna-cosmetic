@@ -85,10 +85,12 @@ Gunakan user admin yang sudah dibuat lewat perintah `php artisan make:filament-u
 
 ---
 
+## Keterangan
+
+Proyek ini dibuat untuk keperluan pembelajaran dan portofolio pribadi. Semua konten dapat disesuaikan melalui database, termasuk informasi pada halaman beranda, berita, dan pengumuman.
+
 ## Lisensi
 
-Proyek ini hanya digunakan untuk keperluan pribadi dan portofolio.
-
----
+Bebas digunakan untuk keperluan pembelajaran dan pengembangan pribadi.
 
 Terima kasih sudah melihat proyek ini!
